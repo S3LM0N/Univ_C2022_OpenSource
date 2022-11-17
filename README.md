@@ -7,7 +7,9 @@
 
 ## Getting Started
 
-Env - > Win10 - WSL (20.04 LTS) 
+### Environment
+
+Win10 - WSL (20.04 LTS) 
 
 ### Installing
 
