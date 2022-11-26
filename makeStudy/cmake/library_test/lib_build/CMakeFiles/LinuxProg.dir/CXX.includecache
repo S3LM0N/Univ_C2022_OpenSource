@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ccc1004200/makeStudy/cmake/library_test/lib_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
+
+/home/ccc1004200/makeStudy/cmake/library_test/lib_build/test_lib.cpp
+iostream
+-
+
