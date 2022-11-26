@@ -1,2 +1,0 @@
-
-char* copy(char* str);
